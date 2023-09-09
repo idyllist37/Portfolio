@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://idyllist.tistory.com/"
                 target="_blank"
                 rel="noreferrer"
               >
